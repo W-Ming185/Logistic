@@ -4,5 +4,3 @@ def function2(void):
     return "function 2"
 def function3(void):
     return "function 3"
-def bad_function(void):
-    return
